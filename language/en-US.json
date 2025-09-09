@@ -1,0 +1,40 @@
+{
+    "hello_message": "Your Premium Shopping Experience",
+    "sign_in": "Sign In",
+    "sign_up": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "full_name": "Full Name",
+    "error_empty_name": "Name cannot be empty",
+    "error_uppercase_required": "Each Name must start with an uppercase letter",
+    "error_letters_only": "Name can only contain letters and spaces",
+    "error_invalid_email": "Please enter a valid email address",
+    "error_empty_email": "Please enter your email",
+    "error_invalid_password": "Please enter a valid password",
+    "error_short_password": "Password must be at least 6 characters long",
+    "error_passwords_do_not_match": "Passwords do not match",
+    "create_account": "Create Account",
+    "Join us": "Join us and explore the world of premium shopping!",
+    "welcome_back": "Welcome Back!",
+    "login_to_your_account": "Login to your account",
+    "Account sign-in successfully": "Account sign-in successfully",
+    "Account created successfully": "Account created successfully",
+    "close": "Close",
+    "Helloooo": "Helloooo",
+    "our_products": "Our Products",
+    "fetured_products": "Featured Products",
+    "shop_our_products": "Shop Our Products",
+    "hot_deals": "Hot Deals",
+    "contact_us": "Contact Us",
+    "for help and support": "For help and support",
+    "About us": "About Us",
+    "to know more about us": "To know more about us",
+    "Change Language": "Change Language",
+    "sign-out": "Sign Out"
+
+
+
+    
+
+}
